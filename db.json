@@ -2,7 +2,7 @@
   "cattle": [
     {
       "id": "1",
-      "name": "Premium Grass-Fed Bull",
+      "name": "Premium Bull",
       "type": "Cow",
       "breed": "Local Cross",
       "price": 180000,
@@ -21,7 +21,7 @@
       "id": "2",
       "name": "Organic Red Bull",
       "type": "Cow",
-      "breed": "Red Chittagong",
+      "breed": "Local Deshi",
       "price": 145000,
       "weight": 310,
       "age": 3.5,
