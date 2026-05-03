@@ -87,7 +87,7 @@
     },
     {
       "id": "6",
-      "name": "Organic Grass-Fed Cow",
+      "name": "Organic Fed Cow",
       "type": "Cow",
       "breed": "Local Deshi",
       "price": 155000,
@@ -104,7 +104,7 @@
     },
     {
       "id": "7",
-      "name": "Healthy Local Sheep",
+      "name": "Local Sheep",
       "type": "Sheep",
       "breed": "Local White",
       "price": 24000,
@@ -121,7 +121,7 @@
     },
     {
       "id": "8",
-      "name": "Premium Hybrid Bull",
+      "name": "Hybrid Bull",
       "type": "Cow",
       "breed": "Deshi Cross",
       "price": 170000,
