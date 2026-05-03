@@ -1,138 +1,140 @@
-{ "cattle": [
-  {
-    "id": 1,
-    "name": "Premium Grass-Fed Bull",
-    "type": "Cow",
-    "breed": "Local Cross",
-    "price": "৳ 180000",
-    "weight": 360,
-    "age": 4,
-    "location": "Dhaka",
-    "description": "Premium grass-fed bull raised under controlled farm conditions. The animal is disease-free, well monitored, and maintained with international food safety standards. Ideal for premium Qurbani.",
-    "images": {
-      "front": "https://uploads-master.aws.bengalmeat.com/media/cattle-image/2026/BLF_5337_2.jpg",
-      "side": "https://uploads-master.aws.bengalmeat.com/media/cattle-image/2026/BLF_5337_3.jpg",
-      "back": "https://uploads-master.aws.bengalmeat.com/media/cattle-image/2026/BLF_5337_4.jpg"
+{
+  "cattle": [
+    {
+      "id": 1,
+      "name": "Premium Grass-Fed Bull",
+      "type": "Cow",
+      "breed": "Local Cross",
+      "price": 180000,
+      "weight": 360,
+      "age": 4,
+      "location": "Dhaka",
+      "description": "Premium grass-fed bull raised under controlled farm conditions. The animal is disease-free, well monitored, and maintained with international food safety standards. Ideal for premium Qurbani.",
+      "images": {
+        "front": "https://uploads-master.aws.bengalmeat.com/media/cattle-image/2026/BLF_5337_2.jpg",
+        "side": "https://uploads-master.aws.bengalmeat.com/media/cattle-image/2026/BLF_5337_3.jpg",
+        "back": "https://uploads-master.aws.bengalmeat.com/media/cattle-image/2026/BLF_5337_4.jpg"
+      },
+      "category": "Large Animal"
     },
-    "category": "Large Animal"
-  },
-  {
-    "id": 2,
-    "name": "Organic Red Bull",
-    "type": "Cow",
-    "breed": "Red Chittagong",
-    "price": "৳ 145000",
-    "weight": 310,
-    "age": 3.5,
-    "location": "Chattogram",
-    "description": "Organically raised Red Chittagong bull with strong frame and balanced body weight. Fed on natural grass and grains with routine veterinary supervision.",
-    "images": {
-      "front": "https://uploads-master.aws.bengalmeat.com/media/cattle-image/2026/BLF_5236_2.jpg",
-      "side": "https://uploads-master.aws.bengalmeat.com/media/cattle-image/2026/BLF_5236_3.jpg",
-      "back": "https://uploads-master.aws.bengalmeat.com/media/cattle-image/2026/BLF_5236_4.jpg"
+    {
+      "id": 2,
+      "name": "Organic Red Bull",
+      "type": "Cow",
+      "breed": "Red Chittagong",
+      "price": 145000,
+      "weight": 310,
+      "age": 3.5,
+      "location": "Chattogram",
+      "description": "Organically raised Red Chittagong bull with strong frame and balanced body weight. Fed on natural grass and grains with routine veterinary supervision.",
+      "images": {
+        "front": "https://uploads-master.aws.bengalmeat.com/media/cattle-image/2026/BLF_5236_2.jpg",
+        "side": "https://uploads-master.aws.bengalmeat.com/media/cattle-image/2026/BLF_5236_3.jpg",
+        "back": "https://uploads-master.aws.bengalmeat.com/media/cattle-image/2026/BLF_5236_4.jpg"
+      },
+      "category": "Large Animal"
     },
-    "category": "Large Animal"
-  },
-  {
-    "id": 3,
-    "name": "Farm Raised Goat",
-    "type": "Goat",
-    "breed": "Black Bengal",
-    "price": "৳ 28000",
-    "weight": 30,
-    "age": 2,
-    "location": "Rajshahi",
-    "description": "Compact Black Bengal goat raised in hygienic farm conditions. Properly vaccinated and suitable for small family Qurbani.",
-    "images": {
-      "front": "https://uploads-master.aws.bengalmeat.com/media/cattle-image/2026/BLFG_5497_2.jpg",
-      "side": "https://uploads-master.aws.bengalmeat.com/media/cattle-image/2026/BLFG_5497_3.jpg",
-      "back": "https://uploads-master.aws.bengalmeat.com/media/cattle-image/2026/BLFG_5497_4.jpg"
+    {
+      "id": 3,
+      "name": "Farm Raised Goat",
+      "type": "Goat",
+      "breed": "Black Bengal",
+      "price": 28000,
+      "weight": 30,
+      "age": 2,
+      "location": "Rajshahi",
+      "description": "Compact Black Bengal goat raised in hygienic farm conditions. Properly vaccinated and suitable for small family Qurbani.",
+      "images": {
+        "front": "https://uploads-master.aws.bengalmeat.com/media/cattle-image/2026/BLFG_5497_2.jpg",
+        "side": "https://uploads-master.aws.bengalmeat.com/media/cattle-image/2026/BLFG_5497_3.jpg",
+        "back": "https://uploads-master.aws.bengalmeat.com/media/cattle-image/2026/BLFG_5497_4.jpg"
+      },
+      "category": "Small Animal"
     },
-    "category": "Small Animal"
-  },
-  {
-    "id": 4,
-    "name": "Large White Bull",
-    "type": "Cow",
-    "breed": "Local Hybrid",
-    "price": "৳ 200000",
-    "weight": 400,
-    "age": 5,
-    "location": "Sirajganj",
-    "description": "Large white bull with impressive height and muscle mass. Carefully raised for customers seeking a visually grand Qurbani animal.",
-    "images": {
-      "front": "https://uploads-master.aws.bengalmeat.com/media/cattle-image/2026/BLF_5280_2.jpg",
-      "side": "https://uploads-master.aws.bengalmeat.com/media/cattle-image/2026/BLF_5280_3.jpg",
-      "back": "https://uploads-master.aws.bengalmeat.com/media/cattle-image/2026/BLF_5280_4.jpg"
+    {
+      "id": 4,
+      "name": "Large White Bull",
+      "type": "Cow",
+      "breed": "Local Hybrid",
+      "price": 200000,
+      "weight": 400,
+      "age": 5,
+      "location": "Sirajganj",
+      "description": "Large white bull with impressive height and muscle mass. Carefully raised for customers seeking a visually grand Qurbani animal.",
+      "images": {
+        "front": "https://uploads-master.aws.bengalmeat.com/media/cattle-image/2026/BLF_5280_2.jpg",
+        "side": "https://uploads-master.aws.bengalmeat.com/media/cattle-image/2026/BLF_5280_3.jpg",
+        "back": "https://uploads-master.aws.bengalmeat.com/media/cattle-image/2026/BLF_5280_4.jpg"
+      },
+      "category": "Large Animal"
     },
-    "category": "Large Animal"
-  },
-  {
-    "id": 5,
-    "name": "Jamunapari Goat",
-    "type": "Goat",
-    "breed": "Jamunapari",
-    "price": "৳ 55000",
-    "weight": 48,
-    "age": 3,
-    "location": "Natore",
-    "description": "Tall and heavy Jamunapari goat with long ears and excellent body balance. Well suited for premium goat Qurbani.",
-    "images": {
-      "front": "https://uploads-master.aws.bengalmeat.com/media/cattle-image/2026/BLFG_5523_2.jpg",
-      "side": "https://uploads-master.aws.bengalmeat.com/media/cattle-image/2026/BLFG_5523_3.jpg",
-      "back": "https://uploads-master.aws.bengalmeat.com/media/cattle-image/2026/BLFG_5523_4.jpg"
+    {
+      "id": 5,
+      "name": "Jamunapari Goat",
+      "type": "Goat",
+      "breed": "Jamunapari",
+      "price": 55000,
+      "weight": 48,
+      "age": 3,
+      "location": "Natore",
+      "description": "Tall and heavy Jamunapari goat with long ears and excellent body balance. Well suited for premium goat Qurbani.",
+      "images": {
+        "front": "https://uploads-master.aws.bengalmeat.com/media/cattle-image/2026/BLFG_5523_2.jpg",
+        "side": "https://uploads-master.aws.bengalmeat.com/media/cattle-image/2026/BLFG_5523_3.jpg",
+        "back": "https://uploads-master.aws.bengalmeat.com/media/cattle-image/2026/BLFG_5523_4.jpg"
+      },
+      "category": "Small Animal"
     },
-    "category": "Small Animal"
-  },
-  {
-    "id": 6,
-    "name": "Organic Grass-Fed Cow",
-    "type": "Cow",
-    "breed": "Local Deshi",
-    "price": "৳ 155000",
-    "weight": 320,
-    "age": 4,
-    "location": "Mymensingh",
-    "description": "Naturally grass-fed cow raised without artificial growth enhancers. Maintained under strict hygiene and health monitoring.",
-    "images": {
-      "front": "https://uploads-master.aws.bengalmeat.com/media/cattle-image/2026/BLF_5148_2.jpg",
-      "side": "https://uploads-master.aws.bengalmeat.com/media/cattle-image/2026/BLF_5148_3.jpg",
-      "back": "https://uploads-master.aws.bengalmeat.com/media/cattle-image/2026/BLF_5148_4.jpg"
+    {
+      "id": 6,
+      "name": "Organic Grass-Fed Cow",
+      "type": "Cow",
+      "breed": "Local Deshi",
+      "price": 155000,
+      "weight": 320,
+      "age": 4,
+      "location": "Mymensingh",
+      "description": "Naturally grass-fed cow raised without artificial growth enhancers. Maintained under strict hygiene and health monitoring.",
+      "images": {
+        "front": "https://uploads-master.aws.bengalmeat.com/media/cattle-image/2026/BLF_5148_2.jpg",
+        "side": "https://uploads-master.aws.bengalmeat.com/media/cattle-image/2026/BLF_5148_3.jpg",
+        "back": "https://uploads-master.aws.bengalmeat.com/media/cattle-image/2026/BLF_5148_4.jpg"
+      },
+      "category": "Large Animal"
     },
-    "category": "Large Animal"
-  },
-  {
-    "id": 7,
-    "name": "Healthy Local Sheep",
-    "type": "Sheep",
-    "breed": "Local White",
-    "price": "৳ 24000",
-    "weight": 29,
-    "age": 2,
-    "location": "Sylhet",
-    "description": "Healthy local white sheep raised in open grazing fields. Suitable for Qurbani with proper health certification.",
-    "images": {
-      "front": "https://imgs.search.brave.com/VKD1ZRGvOZ2aZajN89d9blF8mitoWVm3BfdOlj4wC8w/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jaGVm/c3JoZXJlLmNvbS9j/ZG4vc2hvcC9maWxl/cy9wZXhlbHMtcmF1/bGxpbmctMzA3MjEz/MjMuanBnP3Y9MTc0/ODM2NzY0NiZ3aWR0/aD0xNDQ1",
-      "side": "https://imgs.search.brave.com/tUR5h0HRrZwiy-oF3OgRUFNazpzIMSyt7djVeZZaLHA/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTk2/ODMxMDUxNy9waG90/by9jdXRlLW1lcmlu/by1zaGVlcC1pbi1h/LWZhcm0tcGFzdHVy/ZS1sYW5kLWluLXNv/dXRoLWFmcmljYS5q/cGc_cz02MTJ4NjEy/Jnc9MCZrPTIwJmM9/QjNISWZISEtyTkll/NGFGWHViNDVKMEJo/d2ZlWGNjYXBvd2t6/V2ZMSUYwTT0",
-      "back": "https://imgs.search.brave.com/HWkwtJcdb2KQqqOYNyWKRG0oJr-7eGN8JGvkMQR4PWs/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMudmVjdGVlenku/Y29tL3N5c3RlbS9y/ZXNvdXJjZXMvdGh1/bWJuYWlscy8wMTAv/OTY5LzMxMi9zbWFs/bC9zaGVlcC1ncmF6/aW5nLWluLXRoZS1m/YXJtLXBob3RvLmpw/Zw"
+    {
+      "id": 7,
+      "name": "Healthy Local Sheep",
+      "type": "Sheep",
+      "breed": "Local White",
+      "price": 24000,
+      "weight": 29,
+      "age": 2,
+      "location": "Sylhet",
+      "description": "Healthy local white sheep raised in open grazing fields. Suitable for Qurbani with proper health certification.",
+      "images": {
+        "front": "https://imgs.search.brave.com/VKD1ZRGvOZ2aZajN89d9blF8mitoWVm3BfdOlj4wC8w/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jaGVm/c3JoZXJlLmNvbS9j/ZG4vc2hvcC9maWxl/cy9wZXhlbHMtcmF1/bGxpbmctMzA3MjEz/MjMuanBnP3Y9MTc0/ODM2NzY0NiZ3aWR0/aD0xNDQ1",
+        "side": "https://imgs.search.brave.com/tUR5h0HRrZwiy-oF3OgRUFNazpzIMSyt7djVeZZaLHA/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTk2/ODMxMDUxNy9waG90/by9jdXRlLW1lcmlu/by1zaGVlcC1pbi1h/LWZhcm0tcGFzdHVy/ZS1sYW5kLWluLXNv/dXRoLWFmcmljYS5q/cGc_cz02MTJ4NjEy/Jnc9MCZrPTIwJmM9/QjNISWZISEtyTkll/NGFGWHViNDVKMEJo/d2ZlWGNjYXBvd2t6/V2ZMSUYwTT0",
+        "back": "https://imgs.search.brave.com/HWkwtJcdb2KQqqOYNyWKRG0oJr-7eGN8JGvkMQR4PWs/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMudmVjdGVlenku/Y29tL3N5c3RlbS9y/ZXNvdXJjZXMvdGh1/bWJuYWlscy8wMTAv/OTY5LzMxMi9zbWFs/bC9zaGVlcC1ncmF6/aW5nLWluLXRoZS1m/YXJtLXBob3RvLmpw/Zw"
+      },
+      "category": "Small Animal"
     },
-    "category": "Small Animal"
-  },
-  {
-    "id": 8,
-    "name": "Premium Hybrid Bull",
-    "type": "Cow",
-    "breed": "Deshi Cross",
-    "price": "৳ 170000",
-    "weight": 345,
-    "age": 4,
-    "location": "Kushtia",
-    "description": "Hybrid bull with strong legs and wide chest. Raised under supervision and ideal for customers seeking a balance of size and value.",
-    "images": {
-      "front": "https://uploads-master.aws.bengalmeat.com/media/cattle-image/2026/BLF_5293_2.jpg",
-      "side": "https://uploads-master.aws.bengalmeat.com/media/cattle-image/2026/BLF_5293_3.jpg",
-      "back": "https://uploads-master.aws.bengalmeat.com/media/cattle-image/2026/BLF_5293_4.jpg"
-    },
-    "category": "Large Animal"
-  }
-]}
+    {
+      "id": 8,
+      "name": "Premium Hybrid Bull",
+      "type": "Cow",
+      "breed": "Deshi Cross",
+      "price": 170000,
+      "weight": 345,
+      "age": 4,
+      "location": "Kushtia",
+      "description": "Hybrid bull with strong legs and wide chest. Raised under supervision and ideal for customers seeking a balance of size and value.",
+      "images": {
+        "front": "https://uploads-master.aws.bengalmeat.com/media/cattle-image/2026/BLF_5293_2.jpg",
+        "side": "https://uploads-master.aws.bengalmeat.com/media/cattle-image/2026/BLF_5293_3.jpg",
+        "back": "https://uploads-master.aws.bengalmeat.com/media/cattle-image/2026/BLF_5293_4.jpg"
+      },
+      "category": "Large Animal"
+    }
+  ]
+}
